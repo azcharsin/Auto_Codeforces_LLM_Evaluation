@@ -1,0 +1,2 @@
+# Auto_Codeforces_LLM_Evaluation
+自动化爬取codeforces比赛信息和选手信息，并调用LLM(或者用于自动化提交)进行评测
